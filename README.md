@@ -151,3 +151,12 @@ button:hover {
 
 
 </style>
+
+
+<div class="header">
+
+<h1>BracketVault</h1>
+
+<p>Construction Inspection Tracker</p>
+
+</div>
