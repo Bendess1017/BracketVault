@@ -160,3 +160,6 @@ button:hover {
 <p>Construction Inspection Tracker</p>
 
 </div>
+
+
+<div class="card">
